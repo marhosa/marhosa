@@ -29,10 +29,11 @@
 <h1 align="center">📊 GitHub Stats:</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marhosa&theme=darcula&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=marhosa&theme=darcula&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marhosa&theme=darcula&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=marhosa&theme=darcula&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" width="318" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=marhosa&theme=darcula&hide_border=true" alt="GitHub Streak" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marhosa&theme=darcula&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" width="251.55" />
 </p>
+
 
 
 
