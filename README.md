@@ -1,7 +1,7 @@
 
-![Cool MMV I found online](https://github.com/user-attachments/assets/80bb9f86-a051-411e-b5ca-3481b375d211)
+![Cool MMV I found online](https://github.com/user-attachments/assets/80bb9f86-a051-411e-b5ca-3481b375d211) # 💫 About Me
 
-# 💫 About Me:
+# 
 Greeeeetings!<br>Call me Rhomar or Matthew<br>Currently a student in FEU-Institute of Technology, located in Sampaloc Manila.<br>Taking Computer Science, Software Engineering Major.<br>Kamusta!
 
 
