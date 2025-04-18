@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/80bb9f86-a051-411e-b5ca-3481b375d211" alt="Cool MMV I found online"/>
+  <img src="https://github.com/user-attachments/assets/80bb9f86-a051-411e-b5ca-3481b375d211" alt="Cool MMV I found online" alt="( > W < )"/>
 </div>
 
 <h3 align="center">✨ Greeeetings!</h3>
