@@ -5,14 +5,14 @@
 <h1 align="center">💫 About Me</h1>
 
 
-<h4 align="center" display = "inline-block">
+<h3 align="center" display = "inline-block">
   ✨ Greeeetings!<br>
    &nbsp;&nbsp;Call me <i>Rhomar</i> or <i>Matthew</i>.<br><br>
   🎯 Currently a third-year student in <i>FEU-Institute of Technology</i>.<br>
   📌 Based in <i>Manila.</i><br><br>
   📜 Taking <i>Computer Science, Software Engineering Major</i>.<br><br>
   👋 Kamusta!
-</h4>
+</h3>
 
 
 
