@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.imgur.com/5dZtavH.gif"/>
-</p>
+![Cool MMV](https://i.imgur.com/5dZtavH.gif)
 
 
 # 💫 About Me:
