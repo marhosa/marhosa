@@ -2,43 +2,78 @@
   <img src="https://github.com/user-attachments/assets/80bb9f86-a051-411e-b5ca-3481b375d211" alt="Cool MMV I found online"/>
 </p>
 
-<h1 align="center">💫 About Me</h1>
+
+<h3 align="center">✨ Greeeetings!</h3>
+
+<div align="left">
+  <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am currently a second-year student at FEU-Institute of Technology, based in Manila, pursuing a degree in Computer Science with a Software Engineering major.</h3>
+</div>
 
 
-<h3 align="center" display = "inline-block">
-  ✨ Greeeetings! 👌Call me Rhomar or Matthew. I am currently a second-year student at FEU-Institute of Technology, based in Manila, and pursuing a degree in Computer Science with a Software Engineering major. <br><br>😎Kamusta!
-</h3>
 
+<br>
 
+<h5 align="center"><i>Stack</i></h5>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
+</div>
 
+<h5 align="center"><i>Socials</i></h5>
 
-<h1 align="center">💻 Tech Stack:</h1>
+<div align="center">
+<a href="https://www.linkedin.com/in/marhosa/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/MattWASDQWER/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="mailto:matthewrhomarsantos@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
-
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-  ![After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
-  ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-
-
-<h1 align="center">📊 GitHub Stats:</h1>
+<br>
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marhosa&theme=darcula&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" width="318" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=marhosa&theme=darcula&hide_border=true" alt="GitHub Streak" width="350" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=marhosa&theme=darcula&hide_border=true" alt="GitHub Streak" width="350" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marhosa&theme=darcula&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" width="251.55" />
 </p>
 
 
-
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=marhosa&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=marhosa&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" width="800"/>
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--   https://profile-readme-generator.com/   -->
+<!--  https://gprm.itsvg.in/  -->
