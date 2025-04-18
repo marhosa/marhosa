@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://i.imgur.com/5dZtavH.gif"/>
+</p>
+
+
 # 💫 About Me:
 Greeeeetings!<br>Call me Rhomar or Matthew<br>Currently a student in FEU-Institute of Technology, located in Sampaloc Manila.<br>Taking Computer Science, Software Engineering Major.<br>Kamusta!
 
