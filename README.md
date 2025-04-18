@@ -1,7 +1,6 @@
-<p align="center">
+<div align="center">
   <img src="https://github.com/user-attachments/assets/80bb9f86-a051-411e-b5ca-3481b375d211" alt="Cool MMV I found online"/>
-</p>
-
+</div>
 
 <h3 align="center">✨ Greeeetings!</h3>
 
@@ -11,9 +10,7 @@
 
 
 
-<br>
-
-<h5 align="center"><i>Stack</i></h5>
+<h5 align="center"><i>🎲Stack</i></h5>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -34,11 +31,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
 </div>
 
-<h5 align="center"><i>Socials</i></h5>
+<h5 align="center"><i>📫Socials</i></h5>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/marhosa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"   />
   </a>
   <a href="https://www.facebook.com/MattWASDQWER/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
@@ -48,12 +45,11 @@
   </a>
 </div>
 
-<br>
-<br>
+###
 
 <p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=marhosa&theme=darcula&hide_border=true" alt="GitHub Streak" width="350" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marhosa&theme=darcula&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" width="251.55" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=marhosa&theme=darcula&hide_border=true" alt="GitHub Streak" width="370" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marhosa&theme=darcula&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" width="265.92" />
 </p>
 
 
@@ -77,3 +73,4 @@
 
 <!--   https://profile-readme-generator.com/   -->
 <!--  https://gprm.itsvg.in/  -->
+<!--  https://markdownlivepreview.com/  -->
