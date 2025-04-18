@@ -2,20 +2,19 @@
   <img src="https://github.com/user-attachments/assets/80bb9f86-a051-411e-b5ca-3481b375d211" alt="Cool MMV I found online"/>
 </p>
 
-<h1 align="center">💫 About MeEe</h1>
+<h1 align="center">💫 About Me</h1>
 
-<div align="center">
-  <div style="text-align: left; display: inline-block;">
-    <h3>
-      ✨Greeeeetings!<br>
-      😎Call me Rhomar or Matthew.<br>
-      🎯Currently third-year a student in FEU-Institute of Technology.<br>
-      📌Based in Manila.<br>
-      📜Taking Computer Science, Software Engineering Major.<br>
-      👋Kamusta!
-    </h3>
-  </div>
-</div>
+
+<h4 align="center" display = "inline-block">
+  ✨ Greeeetings!<br>
+   &nbsp;&nbsp;Call me <i>Rhomar</i> or <i>Matthew</i>.<br><br>
+  🎯 Currently a third-year student in <i>FEU-Institute of Technology</i>.<br>
+  📌 Based in <i>Manila.</i><br><br>
+  📜 Taking <i>Computer Science, Software Engineering Major</i>.<br><br>
+  👋 Kamusta!
+</h4>
+
+
 
 
 <h1 align="center">💻 Tech Stack:</h1>
