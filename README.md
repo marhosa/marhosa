@@ -4,14 +4,19 @@
 
 <h1 align="center">💫 About MeEe</h1>
 
-<h3 align="center">
-  ✨Greeeeetings!<br>
-  😎Call me Rhomar or Matthew.<br>
-  🎯Currently third-year a student in FEU-Institute of Technology.<br>
-  📌Based in Manila.<br>
-  📜Taking Computer Science, Software Engineering Major.<br>
-  👋Kamusta!
-</h3>
+<div align="center">
+  <div style="text-align: left; display: inline-block;">
+    <h3>
+      ✨Greeeeetings!<br>
+      😎Call me Rhomar or Matthew.<br>
+      🎯Currently third-year a student in FEU-Institute of Technology.<br>
+      📌Based in Manila.<br>
+      📜Taking Computer Science, Software Engineering Major.<br>
+      👋Kamusta!
+    </h3>
+  </div>
+</div>
+
 
 <h1 align="center">💻 Tech Stack:</h1>
 
@@ -31,11 +36,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marhosa&theme=darcula&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats"/>
-  <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=marhosa&theme=darcula&hide_border=true" alt="GitHub Streak"/>
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marhosa&theme=darcula&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
+
+
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
