@@ -6,7 +6,7 @@
 
 
 <h3 align="center" display = "inline-block">
-  ✨ Greeeetings! 👌Call me Rhomar or Matthew. I am currently a second-year student at FEU-Institute of Technology, based in Manila, and pursuing a degree in Computer Science with a Software Engineering major. 😎Kamusta!
+  ✨ Greeeetings! 👌Call me Rhomar or Matthew. I am currently a second-year student at FEU-Institute of Technology, based in Manila, and pursuing a degree in Computer Science with a Software Engineering major. <br><br>😎Kamusta!
 </h3>
 
 
