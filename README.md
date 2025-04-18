@@ -2,7 +2,7 @@
 ![Cool MMV I found online](https://github.com/user-attachments/assets/80bb9f86-a051-411e-b5ca-3481b375d211) 
 
 # 💫 About MeEe
-<h3>Greeeeetings!<br>Call me Rhomar or Matthew<br>Currently third-year a student in FEU-Institute of Technology, based in Manila.<br>Taking Computer Science, Software Engineering Major.</h3><h2>Kamusta!</h2>
+<h3>✨Greeeeetings!<br>😎Call me Rhomar or Matthew<br>🎯Currently third-year a student in FEU-Institute of Technology. <br>📌Based in Manila.<br>📜Taking Computer Science, Software Engineering Major.<br>👋Kamusta!</h3>
 
 
 # 💻 Tech Stack:
