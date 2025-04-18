@@ -53,11 +53,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=marhosa&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" width="800"/>
-</p>
-
-
 <h6 align="center">do what thou wilt</h6>
 
 
