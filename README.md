@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8046abdc-c948-45d6-9274-d50951030e1d" alt="Cool MMV I found online" alt="( > W < )"/>
+  <img src="https://github.com/user-attachments/assets/8046abdc-c948-45d6-9274-d50951030e1d" width="888" alt="( > W < )"/>
 </div>
 
 <br>
@@ -10,12 +10,12 @@
 
 
 <div align="center">
-  <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am currently a second-year student at FEU-Institute of Technology, based in Manila, pursuing a degree in Computer Science with a Software Engineering major.</h3>
+  <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wassup! I'm Matt, currently a second-year student at FEU-Institute of Technology, based in Manila, pursuing a degree in Computer Science with a Software Engineering major.</h3>
 </div>
 
 
 
-<h5 align="center"><i>🎲Cards</i></h5>
+<h5 align="center"><i>🎲These are some of the Tech I use.</i></h5>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -36,7 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
 </div>
 
-<h5 align="center"><i>📫Socials</i></h5>
+<h5 align="center"><i>📫My socials where you can hit me up.</i></h5>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/marhosa/" target="_blank">
@@ -50,30 +50,27 @@
   </a>
 </div>
 
-###
+<div align="center">
+<img src="https://github.com/user-attachments/assets/f9558887-111d-4953-9ccc-84bb1e1bbe85" width="888">
+</div>
 
-![tenor-ezgif com-crop](https://github.com/user-attachments/assets/f9558887-111d-4953-9ccc-84bb1e1bbe85)
-
+<div align="center">
+<h4>🎮Player Stats</h4>
+</div>
 
 <p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=marhosa&theme=darcula&hide_border=true" alt="GitHub Streak" width="370" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=marhosa&theme=darcula&hide_border=true" alt="GitHub Streak" width="370" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marhosa&theme=darcula&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" width="265.92" />
+  <br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marhosa&theme=monokai&utcOffset=8" width="318">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marhosa&theme=monokai" width="318">
 </p>
 
 
-<h6 align="center">do what thou wilt</h6>
+<h6 align="center"><i>ありがとう</i></h6>
 
 
-
-
-
-
-
-
-
-
-
-
+<!-- https://github-profile-summary-cards.vercel.app/demo.html -->
 <!--   https://profile-readme-generator.com/   -->
 <!--  https://gprm.itsvg.in/  -->
 <!--  https://markdownlivepreview.com/  -->
