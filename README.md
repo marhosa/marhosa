@@ -1,7 +1,6 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/80bb9f86-a051-411e-b5ca-3481b375d211" alt="Cool MMV I found online" alt="( > W < )"/>
-</div>
-<br>
+
+<br>![Main_2-ezgif com-resize](https://github.com/user-attachments/assets/086c7488-abc5-491d-a7c0-6d7728ad45b5)
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/24c63a99-f78f-4d94-a991-2f15a16da55e" alt="GREEETINGS!" alt="( > W < )" width="140px"/>
 </div>
