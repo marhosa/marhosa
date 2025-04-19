@@ -1,9 +1,7 @@
 
 <br>![Main_2-ezgif com-resize](https://github.com/user-attachments/assets/086c7488-abc5-491d-a7c0-6d7728ad45b5)
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/24c63a99-f78f-4d94-a991-2f15a16da55e" alt="GREEETINGS!" alt="( > W < )" width="140px"/>
-</div>
+![Main-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/857a8816-da67-4b77-905c-4c0795cd9e31)
 
 
 <div align="center">
