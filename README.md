@@ -2,7 +2,8 @@
   <img src="https://github.com/user-attachments/assets/80bb9f86-a051-411e-b5ca-3481b375d211" alt="Cool MMV I found online" alt="( > W < )"/>
 </div>
 
-<h3 align="center">✨ Greeeetings!</h3>
+![Main-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/24c63a99-f78f-4d94-a991-2f15a16da55e)
+
 
 <div align="left">
   <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am currently a second-year student at FEU-Institute of Technology, based in Manila, pursuing a degree in Computer Science with a Software Engineering major.</h3>
