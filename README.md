@@ -1,7 +1,10 @@
-
-<br>![Main_2-ezgif com-resize](https://github.com/user-attachments/assets/086c7488-abc5-491d-a7c0-6d7728ad45b5)
-
-![Main-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/857a8816-da67-4b77-905c-4c0795cd9e31)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/086c7488-abc5-491d-a7c0-6d7728ad45b5" alt="Cool MMV I found online" alt="( > W < )"/>
+</div>
+<br>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/857a8816-da67-4b77-905c-4c0795cd9e31" alt="GREEETINGS!" alt="( > W < )" width="150px"/>
+</div>
 
 
 <div align="center">
