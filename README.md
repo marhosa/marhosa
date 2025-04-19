@@ -1,7 +1,9 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/086c7488-abc5-491d-a7c0-6d7728ad45b5" alt="Cool MMV I found online" alt="( > W < )"/>
+  <img src="https://github.com/user-attachments/assets/8046abdc-c948-45d6-9274-d50951030e1d" alt="Cool MMV I found online" alt="( > W < )"/>
 </div>
+
 <br>
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/857a8816-da67-4b77-905c-4c0795cd9e31" alt="GREEETINGS!" alt="( > W < )" width="150px"/>
 </div>
