@@ -62,13 +62,13 @@
   <br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marhosa&theme=monokai&utcOffset=8" width="318">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marhosa&theme=monokai" width="318">
-  <br>
-  Leetcode
-  <br>
+</p>
+
+<p align="center">
   <img src="https://leetcode-badge-sage.vercel.app/badge/netorqre?theme=dark&bgColor=282828" width="400">
 </p>
 
-
+<h6 align="center">Leetcode</h6>
 <h6 align="center"><i>ありがとう</i></h6>
 
 
