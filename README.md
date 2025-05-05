@@ -56,6 +56,7 @@
 <h4>🎮Player Stats</h4>
 </div>
 
+<a href="https://github.com/marhosa">
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=marhosa&theme=darcula&hide_border=true" alt="GitHub Streak" width="370" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marhosa&theme=darcula&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" width="265.92" />
@@ -63,10 +64,13 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marhosa&theme=monokai&utcOffset=8" width="318">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marhosa&theme=monokai" width="318">
 </p>
+</a>
 
+<a href="https://leetcode.com/u/netorqre/">
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/netorqre?ext=heatmap" width="350px">
 </p>
+</a>
 
 
 <h6 align="center"><i>ありがとう</i></h6>
