@@ -64,7 +64,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marhosa&theme=monokai" width="318">
 </p>
 
-<h5 align="center">🕹️Leetcode - Just started XD</h5>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/netorqre?ext=heatmap" width="350px">
 </p>
