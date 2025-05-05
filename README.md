@@ -66,7 +66,7 @@
 
 <h5 align="center">🕹️Leetcode - Just started XD</h5>
 <p align="center">
-  [<img src="https://leetcode-badge-sage.vercel.app/badge/netorqre?theme=dark&bgColor=282828" width="400">](https://leetcard.jacoblin.cool/netorqre?ext=heatmap)
+  <img src="https://leetcard.jacoblin.cool/netorqre?ext=heatmap">
 </p>
 
 
