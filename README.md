@@ -66,7 +66,7 @@
 
 <h5 align="center">🕹️Leetcode - Just started XD</h5>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/netorqre?ext=heatmap">
+  <img src="https://leetcard.jacoblin.cool/netorqre?ext=heatmap" width="350px">
 </p>
 
 
