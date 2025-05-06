@@ -10,7 +10,7 @@
 
 
 <div align="center">
-  <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wassup! I'm Matt, currently a second-year student at FEU-Institute of Technology, based in Manila, pursuing a degree in Computer Science with a Software Engineering major.</h3>
+  <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wassup! I'm Matt, currently a second-year student at <a href="https://www.feutech.edu.ph/">FEU-Institute of Technology</a>, based in Manila, pursuing a degree in Computer Science with a Software Engineering major.</h3>
 </div>
 
 <div align="center">
@@ -58,11 +58,9 @@
 
 
 <p align="center">
-  <a href="https://github.com/marhosa"><img src="https://nirzak-streak-stats.vercel.app/?user=marhosa&theme=darcula&hide_border=true" alt="GitHub Streak" width="370" /></a>
-  <a href="https://github.com/marhosa"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marhosa&theme=darcula&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" width="265.92" /></a>
+  <a href="https://github.com/marhosa"><img src="https://nirzak-streak-stats.vercel.app/?user=marhosa&theme=darcula&hide_border=true" alt="GitHub Streak" width="400" /></a>
   <br>
-  <a href="https://leetcode.com/u/netorqre/"><img src="https://leetcard.jacoblin.cool/netorqre?ext=heatmap" width="318"></a>
-  <a href="https://github.com/marhosa"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marhosa&theme=monokai&utcOffset=8" width="318"></a>
+  <a href="https://leetcode.com/u/netorqre/"><img src="https://leetcard.jacoblin.cool/netorqre?ext=heatmap" width="400"></a>
   
 </p>
 
