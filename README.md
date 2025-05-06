@@ -13,6 +13,7 @@
   <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wassup! I'm Matt, currently a second-year student at <a href="https://www.feutech.edu.ph/">FEU-Institute of Technology</a>, based in Manila, pursuing a degree in Computer Science with a Software Engineering major.</h3>
 </div>
 
+<a href="https://github.com/marhosa">
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
@@ -32,6 +33,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
 </div>
+</a>
 
 
 <h6 align="center"><i>Contact Me Below </i></h6>
