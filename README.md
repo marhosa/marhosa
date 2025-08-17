@@ -14,7 +14,7 @@
 
 
 <div align="center">
-  <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wassup! I'm Matt, currently a second-year student at <a href="https://www.feutech.edu.ph/">FEU-Institute of Technology</a>, based in Manila, pursuing a degree in Computer Science with a Software Engineering major.</h3>
+  <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wassup! I'm Matt, currently a third-year student at <a href="https://www.feutech.edu.ph/">FEU-Institute of Technology</a>, based in Manila, pursuing a degree in Computer Science with a Software Engineering major.</h3>
 </div>
 
 
