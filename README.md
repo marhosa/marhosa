@@ -1,5 +1,5 @@
 <div align = "center">
-  <p><a href="[marhosa.vercel.app](https://marhosa.vercel.app/)">Personal Website</a></p>
+  <p><a href="https://marhosa.vercel.app/"target="_blank">Personal Website</a></p>
 </div>
 
 <div align="center">
