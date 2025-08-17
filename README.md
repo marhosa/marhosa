@@ -1,5 +1,9 @@
+<div align = "center">
+  <p><a href="marhosa.vercel.app">Personal Website</a></p>
+</div>
+
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8046abdc-c948-45d6-9274-d50951030e1d" width="888" alt="( > W < )"/>
+  <img src="https://github.com/user-attachments/assets/8046abdc-c948-45d6-9274-d50951030e1d" width="555" alt="( > W < )"/>
 </div>
 
 <br>
