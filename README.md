@@ -17,7 +17,7 @@
 -->
 
 <div align="center">
-  <h4>-A third-year student at <a href="https://www.feutech.edu.ph/">FEU-Institute of Technology</a>, based in Manila, pursuing a degree in Computer Science with a Software Engineering major.</h4>
+  <h4>A third-year student at <a href="https://www.feutech.edu.ph/">FEU-Institute of Technology</a>, based in Manila, pursuing a degree in Computer Science with a Software Engineering major.</h4>
 </div>
 
 
