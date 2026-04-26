@@ -37,7 +37,6 @@
 </div>
 
 <div align="center">
-<h4>Stats</h4>
 </div>
 
 <h6 align="center"><i>ありがとう</i></h6>
