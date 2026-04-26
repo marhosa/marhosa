@@ -40,15 +40,6 @@
 <h4>Stats</h4>
 </div>
 
-
-<p align="center">
-  <a href="https://github.com/marhosa"><img src="https://nirzak-streak-stats.vercel.app/?user=marhosa&theme=darcula&hide_border=true" alt="GitHub Streak" width="550" /></a>
-  <br>
-  <a href="https://leetcode.com/u/netorqre/"><img src="https://leetcard.jacoblin.cool/netorqre?ext=heatmap" width="550"></a>
-  
-</p>
-
-
 <h6 align="center"><i>ありがとう</i></h6>
 
 
